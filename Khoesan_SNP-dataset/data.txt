@@ -1,0 +1,4 @@
+path: https://github.com/SciWilro/Boards-Interesting_R_code/releases/download/Khoesan_SNP-dataset-5c29632/khoesan_arraydata-master.zip
+extension: zip
+description: HadzaKhomani_AffyOrigins_2013, Khm_Nama_OmniExPlus, Khm_SA_OmniEx + SA-allindv.emitall.vcf.gz
+type: files
