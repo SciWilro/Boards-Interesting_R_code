@@ -16,3 +16,9 @@
   description: HadzaKhomani_AffyOrigins_2013, Khm_Nama_OmniExPlus, Khm_SA_OmniEx +
     SA-allindv.emitall.vcf.gz
   type: files
+- path: Test_mtcars2
+  name: Test_mtcars2
+  rows: 32
+  cols: 11
+  description: Testing
+  type: table
